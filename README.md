@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Purshottam Jaiswal
 
-<!--
-**PurshottamDev/PurshottamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☕ Java Backend Developer | Spring Boot | REST APIs
 
-Here are some ideas to get you started:
+I'm currently building my skills in **Java Backend Development** and developing REST APIs using Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🔗 REST APIs
+- 🗄️ MySQL
+- 🧩 JPA / Hibernate
+- 📮 Postman
+- 💻 IntelliJ IDEA
+- 🔧 Git & GitHub
+
+### 🚀 Current Project
+
+**Student CRUD REST API**
+
+A Spring Boot REST API for performing CRUD operations on student data using:
+
+- Java
+- Spring Boot
+- MySQL
+- JPA / Hibernate
+- REST APIs
+- Validation
+
+### 📚 Currently Learning
+
+- DSA (Data Structures & Algorithms)
+- Advanced Spring Boot
+- Spring MVC
+- Database & SQL
+- Microservices
+- System Design
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/purshottam-jaiswal-027008372/)
+- 🐙 [GitHub](https://github.com/PurshottamDev)
+
+---
+
+⭐ Thanks for visiting my profile!
